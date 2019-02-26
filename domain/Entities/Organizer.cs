@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace domain.Entities
 {
-    public class Team
+    public class Organizer
     {
     }
 }
