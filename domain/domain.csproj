@@ -52,6 +52,7 @@
     <Compile Include="Entities\Event.cs" />
     <Compile Include="Entities\Personne.cs" />
     <Compile Include="Entities\Team.cs" />
+    <Compile Include="Entities\Ticket.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
